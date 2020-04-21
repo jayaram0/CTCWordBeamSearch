@@ -14,3 +14,4 @@ out.csv
 **/Release
 **/Debug
 **/.idea
+*.json
